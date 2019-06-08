@@ -1,0 +1,23 @@
+{
+  "name": "ocr-whiteboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh index.sh",
+    "start:node": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phasic/ocr-whiteboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phasic/ocr-whiteboard/issues"
+  },
+  "homepage": "https://github.com/phasic/ocr-whiteboard#readme",
+  "dependencies": {
+  }
+}
